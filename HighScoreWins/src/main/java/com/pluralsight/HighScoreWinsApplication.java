@@ -24,5 +24,6 @@ public class HighScoreWinsApplication {
             System.out.println("Both teams have the same score!");
         }
 
+
     }
 }
